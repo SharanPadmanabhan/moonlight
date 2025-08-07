@@ -1,0 +1,96 @@
+# ==============================
+# General Neovim-related files
+# ==============================
+
+# Swap files
+*.swp
+*.swo
+*.swn
+*.bak
+*.swap
+*.un~
+*.undo
+*.view
+*.log
+*~
+
+# Neovim Sessions
+Session.vim
+
+# Neovim Backup files
+.viminfo
+.vim
+
+# Lazy package manager files
+lazy-lock.json
+.lazy-lsp/
+
+# ==============================
+# System-specific files
+# ==============================
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Linux
+*~  # Temporary files on Linux
+
+# ==============================
+# Editor-related files
+# ==============================
+
+# VSCode settings
+.vscode/
+
+# JetBrains IDEs settings
+.idea/
+*.iml
+
+# ==============================
+# Directory-specific files
+# ==============================
+
+# Neovim swap directory
+swap/
+
+# Cache files
+.cache/
+
+# Temporary files
+tmp/
+
+# ==============================
+# Dependency-related files
+# ==============================
+
+# Node.js modules (if using JavaScript/TypeScript plugins)
+node_modules/
+
+# Python virtual environments
+.venv/
+
+# ==============================
+# Compiler-related files
+# ==============================
+
+# Compiled plugin files
+*.o
+*.d
+*.out
+*.exe
+*.obj
+
+# ==============================
+# Dependency lock files
+# ==============================
+
+# npm/yarn lock files
+package-lock.json
+yarn.lock
+
