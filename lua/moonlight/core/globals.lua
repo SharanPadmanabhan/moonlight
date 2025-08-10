@@ -1,0 +1,2 @@
+-- moonlight.core.globals
+-- Defines global variables used across the Moonlight Neovim configuration.

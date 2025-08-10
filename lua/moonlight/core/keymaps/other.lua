@@ -1,0 +1,2 @@
+-- moonlight.core.keymaps.other
+-- Defines keymap configurations tailored for Linux and Windows in the Moonlight Neovim setup.

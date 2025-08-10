@@ -1,0 +1,2 @@
+-- moonlight.core.keymaps.common
+-- Defines shared keymap configurations used across all platforms in the Moonlight Neovim setup.

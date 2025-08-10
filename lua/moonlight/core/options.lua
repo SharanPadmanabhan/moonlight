@@ -1,0 +1,2 @@
+-- moonlight.core.options
+-- Configures Neovim editor options for the Moonlight Neovim configuration.

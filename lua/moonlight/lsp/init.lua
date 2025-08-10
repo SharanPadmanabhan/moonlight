@@ -1,0 +1,2 @@
+-- moonlight.lsp
+-- Loads and sets up all LSP servers with shared handlers and configs.

@@ -1,0 +1,2 @@
+-- moonlight.core.keymaps.darwin
+-- Defines keymap configurations tailored for macOS in the Moonlight Neovim setup.

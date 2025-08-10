@@ -1,0 +1,18 @@
+# Indentation
+indent_type = "Spaces"
+indent_width = 2
+
+# Line length and layout
+column_width = 80
+
+# Quotes
+quote_style = "ForceDouble"
+
+# Function call paranthesis
+call_parentheses = "Always"
+
+# Collapse simple if/for/etc. statements
+collapse_simple_statement = "Never"
+
+# Space after functions
+space_after_function_names = "Never"

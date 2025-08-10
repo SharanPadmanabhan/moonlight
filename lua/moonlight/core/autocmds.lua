@@ -1,0 +1,2 @@
+-- moonlight.core.autocmds
+-- Defines custom autocommands for the Moonlight Neovim configuration.
